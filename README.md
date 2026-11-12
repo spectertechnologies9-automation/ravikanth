@@ -1,2 +1,5 @@
-# ravikanth
-Digital visiting card — RAVIKANTH [cb:6c8c28b5-f527-4280-8f66-5ca0d4f445cf]
+# RAVIKANTH — Digital Visiting Card
+
+Live site: https://spectertechnologies9-automation.github.io/ravikanth/
+
+Generated and published automatically by Digital Card Builder. Edit the card in the builder and republish rather than editing these files by hand.
